@@ -1,0 +1,2 @@
+# UtiliityScript
+Under MIT License
